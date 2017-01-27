@@ -81,7 +81,7 @@
 }
 .chat .new-messages-bar {
     background-color: transparent !important;
-    opacity: 0.8;
+    opacity: 0.1;
 }
 .chat .divider:not(.divider-red)>div {
     background: rgba(255, 255, 255, 0.2) !important;
