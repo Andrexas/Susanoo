@@ -1,12 +1,12 @@
 {} /* Background */
 .app {
-    background-image: url("http://imgur.com/a/FO1iP");
+    background-image: url("http://i.imgur.com/mx7d9wp.jpg");
     background-size: cover !important;
     background-position: center;
 }
 .callout-backdrop {
     opacity:1 !important;
-    background: url("https://i.imgur.com/eeDIMtw.jpg");
+    background: url("http://i.imgur.com/ekbPKy9.jpg");
     background-size: cover;
     background-position: center;
 }
